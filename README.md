@@ -17,7 +17,7 @@
 # Hello world, I am Mohith <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px">
 
 A student who thrives on solving complex problems, building innovative solutions, and shaping the future of technology.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/26tn33aiTi1jkl6H6"> 
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
