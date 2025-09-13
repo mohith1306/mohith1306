@@ -60,8 +60,11 @@ A student who thrives on solving complex problems, building innovative solutions
 
 ## 🏆 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohith1306&show_icons=true&locale=en&layout=compact" alt="mohith1306" /></p>
+![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohith1306&show_icons=true&rank_icon=github&theme=one_dark_pro)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohith1306&show_icons=true&locale=en" alt="mohith1306" /></p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith1306&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohith1306&theme=one_dark_pro)](https://git.io/streak-stats)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohith1306&show_icons=true&locale=en&layout=compact" alt="mohith1306" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohith1306&show_icons=true&locale=en" alt="mohith1306" /></p> -->
