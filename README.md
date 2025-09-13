@@ -33,7 +33,7 @@ A student who thrives on solving complex problems, building innovative solutions
 <a href=""><img alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/ejs-0769AD?style=for-the-badge&logo=ejs&logoColor=white" /></a>
-<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt=""/></a>
+<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40px" height = "20px" alt=""/></a>
 
 ## 💾 Databases
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
